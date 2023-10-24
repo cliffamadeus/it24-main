@@ -19,13 +19,13 @@
         <a href="./views/it24-c.html" class="w3-bar-item w3-button">IT24-C</a>
       </div>
     </div>
-    <button class="w3-bar-item w3-button w3-right" onclick="document.getElementById('it24-main-index-modal').style.display='block'">
+    <button class="w3-bar-item w3-button w3-right" id="modalButton">
       <i class="fa fa-info"></i>
     </button>
     <div id="it24-main-index-modal" class="w3-modal">
       <div class="w3-modal-content ">
         <div class="w3-container">
-          <span onclick="document.getElementById('it24-main-index-modal').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+          <span id="closeModalButton" class="w3-button w3-display-topright">&times;</span>
           <!---Modal Content--->
           <div class="w3-row">
             <div class="w3-third w3-container">
@@ -61,4 +61,5 @@
     </div>
   </div>
 </body>
+<script src="./js/app.js"></script>
 </html>
