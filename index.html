@@ -5,307 +5,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IT24 Main</title>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-  <div class="w3-bar w3-light-grey">
-    <a href="https://hexedhorizon.github.io/it24-main/index.html" class="w3-bar-item w3-button">Home</a>
-    <a href="https://hexedhorizon.github.io/it24-main/views/it24-b.html" class="w3-bar-item w3-button">IT24B</a>
-    <a href="https://hexedhorizon.github.io/it24-main/views/it24-c.html" class="w3-bar-item w3-button">IT24C</a>
+  <!---Navbar-->
+  <div class="w3-bar w3-border w3-light-grey">
+    <div class="w3-dropdown-hover">
+      <button class="w3-button"> <i class="fa fa-bars"></i></button>
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="https://hexedhorizon.github.io/it24-main/index.html" class="w3-bar-item w3-button">Home</a>
+        <a href="https://hexedhorizon.github.io/it24-main/views/it24-a.html" class="w3-bar-item w3-button">IT24-A</a>
+        <a href="https://hexedhorizon.github.io/it24-main/views/it24-b.html" class="w3-bar-item w3-button">IT24-B</a>
+        <a href="https://hexedhorizon.github.io/it24-main/views/it24-c.html" class="w3-bar-item w3-button">IT24-C</a>
+      </div>
+    </div>
+    <button class="w3-bar-item w3-button w3-right" onclick="document.getElementById('it24-main-index-modal').style.display='block'">
+      <i class="fa fa-info"></i>
+    </button>
+    <div id="it24-main-index-modal" class="w3-modal">
+      <div class="w3-modal-content">
+        <div class="w3-container">
+          <span onclick="document.getElementById('it24-main-index-modal').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+          <!---Modal Content--->
+          <div class="w3-row">
+            <div class="w3-third w3-container">
+              <p></p>
+            </div>
+            <div class="w3-third w3-container">
+              <div class="w3-container w3-center">
+                <br>
+                <i class="w3-xxlarge fa fa-info"></i>
+                <p>Welcome to the official static page repository for IT 24 - Event Driven Programming for the Academic Year 2023 - 2024.
+                  This repository is a collaborative space where students can work together to build and maintain the static pages for the course.</p>
+              </div>
+            </div>
+            <div class="w3-third w3-container">
+              <p></p>
+            </div>
+          </div>
+           <!---Modal Content--->
+        </div>
+      </div>
+    </div>
   </div>
+   <!---Navbar-->
+   
   <h1 style="text-align: center;">Welcome IT24 Students</h1>
-    <!---Row 1--->
-    <div class="w3-row">
-      <!---CLFM5T12--->
-      <div class="w3-third w3-container">
-        <div class="w3-card">
-          <header class="w3-container w3-light-grey">
-            <h3 style="text-align: center;">Cliffmeister</h3>
-          </header>
-            <div class="w3-container">
-              <div class="w3-row">
-                <div class="w3-third w3-container">
-                </div>
-                <div class="w3-third w3-container">
-                  <img src="https://avatars.githubusercontent.com/u/16995636?s=400&u=d426444996f7aa98d2037aa68fbdec7718481c54&v=4" alt="Avatar" class=" w3-margin" style="width:80%">
-                </div>
-                <div class="w3-third w3-container">
-                </div>
-              </div> 
-              <h3>Instructor</h3>
-              <p>IT24 - Event Driven programming</p>
-              <p>"If it ain't broke don't fix it"</p><br>
-              <p>Git Gud at Git</p><br>
-            </div>
-          <button class="w3-button w3-block w3-dark-grey">VISIT TEAM WEBSITE</button>
-        </div>
-      </div>
-      <!---Group 4 Elements--->
-      <div class="w3-third w3-container">
-        <div class="w3-card">
-          <header class="w3-container w3-light-grey">
-            <h3 style="text-align: center;">4 Elements</h3>
-          </header>
-          <div class="w3-container">
-            <div class="w3-row">
-              <div class="w3-third w3-container">
-              </div>
-              <div class="w3-third w3-container">
-                <img src="https://z-p3-scontent.fmnl25-4.fna.fbcdn.net/v/t1.15752-9/373427266_260290083595053_8397302338826097317_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeG-X96kd2ckYbdJdLdtmAG0_6ozgURJE2P_qjOBREkTY4D6hEj8-7iuphcgZH8BjV4E3LvIyg96l4iXTk29H_rx&_nc_ohc=cS3HWCYFWS0AX-W7dHG&_nc_ht=z-p3-scontent.fmnl25-4.fna&oh=03_AdSRufVopJaD6r0q4o2kqcj8hsoiCOoU36SubjNHeDi_iQ&oe=654DB0F3" alt="Avatar" class=" w3-margin" style="width:80%">
-              </div>
-              <div class="w3-third w3-container">
-              </div>
-            </div>
-            <p>Group Members</p><br>
-            <p>James Serenio</p>
-            <p>Louie Jay Laspoña</p>
-            <p>Louella Jane Baslao</p>
-            <p>Jenecyl Sagansan</p>
-        </div>
-        <button class="w3-button w3-block w3-dark-grey">Commit</button>
-         </div>
-      </div>
-      <!---Group 3--->
-      <div class="w3-third w3-container">
-        <div class="w3-card">
-          <header class="w3-container w3-light-grey">
-            <h3 style="text-align: center;">DECODERS</h3>
-          </header>
-            <div class="w3-container">
-              <div class="w3-row">
-                <div class="w3-third w3-container">
-                </div>               
-                <div class="w3-third w3-container">
-                  <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/385536935_1040015270778434_3256774850436715863_n.jpg?stp=dst-jpg_p206x206&_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGMvWKcq--wMol2NVzx0hdrvXuuBEd0x9q9e64ER3TH2uyBR5rUiDPFQdQKrjzjwpKWbK60bJUaYhyFlWVuesKN&_nc_ohc=9_wMNRsPX4gAX_dmRSY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQ9m2wAd5zCQlB7GEfW9xqTFPinQM8axc_jVOBZB2b7Q&oe=654DBC50" alt="Avatar" class=" w3-margin" style="width:80%">
-                </div>
-                <div class="w3-third w3-container">
-                </div>
-              </div> 
-              <h3>GROUP 3</h3>
-              <p>
-                <img src="image/myles.jpg "style ="width:50px; height:50px;">
-                MYLES OBALANG                
-              <a href ="https://github.com/Obalang/Obalang.MylesV-IT24A">
-                <img src ="image/github-logo.png" style ="width
-                :20px; height:20px;">
-                </a>
-              </p>              
-              <p>
-                <img src="image/logo4.jpg "style ="width:50px; height:50px;">
-                CLIFFORD JOHN LUTRAGO
-                <a href ="https://github.com/LutragoacliffordIT24A">
-                  <img src ="image/github-logo.png" style ="width
-                  :20px; height:20px;">
-                  </a>
-              </p>
-              <p>
-                <img src="image/yena.jpg "style ="width:50px; height:50px;">
-                YENA ANN BAYLON
-                <a href ="https://github.com/baylonyenaann?fbclid=IwAR2HkU1sRfVMogg0A4p0dYr_K682ryNVwyo8V6PeuNg2bbKzOGMzkL81cHY">
-                  <img src ="image/github-logo.png" style ="width
-                  :20px; height:20px;">
-                  </a>
-              </p>
-              <p>
-                <img src="image/angel.jpg "style ="width:50px; height:50px;">
-                ANGEL SORTONES
-                <a href ="https://github.com/sortonesangel?fbclid=IwAR24HLKtFrwCU9GV5cTjuHS4ls6gAdZEI48VzClOKxjYslCY5kMErtTcSPY">
-                  <img src ="image/github-logo.png" style ="width
-                  :20px; height:20px;">
-                  </a>
-              </p>
-            </div>
-          <button class="w3-button w3-block w3-dark-grey">Commit</button>
-        </div>
-      </div>
-    </div>
-    <br>
-    <!---Row 2--->
-    <div class="w3-row">
-      <!---Group Baki--->
-      <div class="w3-third w3-container">
-        <div class="w3-card">
-          <header class="w3-container w3-light-grey">
-            <h3 style="text-align: center;">TEAM BAKI</h3>
-          </header>
-            <div class="w3-container">
-              <div class="w3-row">
-                <div class="w3-third w3-container">
-                </div>
-                  <div class="w3-third w3-container">
-                    <img src="https://lh3.googleusercontent.com/drive-storage/AKHj6E5sZKnMaUaOguqwIwlbp1FO7Q-NrrRX89ayftSK_Zm6J0OrdjIf6HXMnxbvC6qcAJIBYR_BFOGgSMKVqPIDcTS7CqF4DnEHLujD4L7aAw=w1366-h653" alt="Avatar" class=" w3-margin" style="width:80%">
-                  </div>
-                <div class="w3-third w3-container">
-                </div>
-              </div> 
-              <h3>Group 7</h3>
-              <p>Stephanie Omongos</p>
-              <p>Rona Bucio</p>
-              <p>Rechelle Pagutayao</p>
-              <p>Althea Valerie Alguzar</p>
-            </div>
-          <button class="w3-button w3-block w3-dark-grey">TEAM WEBSITE</button>
-        </div>
-      </div>
-      <!---Group DILATA--->
-        <div class="w3-third w3-container">
-          <div class="w3-card">
-            <header class="w3-container w3-light-grey">
-              <h3 style="text-align: center;">TEAM DILATA</h3>
-            </header>
-              <div class="w3-container">
-                <div class="w3-row">
-                  <div class="w3-third w3-container">
-                  </div>
-                    <div class="w3-third w3-container">
-                      <img src="https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/372419287_267396222781004_8780641741119657666_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeEjGWiEHeS2fQ12FnuX0sWNnZCxAJAwEkidkLEAkDASSEduSvcIZk8iqtXMqhziZF3dF61TSWV18poFPgsHHwHG&_nc_ohc=pBnrc1rABqQAX8OTugf&_nc_oc=AQnbBYyydrAC1c0fdQjm1dI1hwQOJ2AuR6PZzOApaxTj8XwixaJbFayYzMW1_2SYlQ4&_nc_ht=scontent.fmnl8-3.fna&oh=03_AdQV4sxn6filIXlVKl531wRFkYaJ4rHbYVGsVABiSuq_mw&oe=65505065" alt="Avatar" class=" w3-margin" style="width:80%">
-                    </div>
-                  <div class="w3-third w3-container">
-                  </div>
-                </div> 
-                <h3>Group DILATA</h3>
-                <p>Nhel Licera</p>
-                <p>Mark Steven Bayanban</p>
-                <p>Mariel Saraum</p>
-                <p>Joel Rodriquez Jr.</p>
-              </div>
-            <button class="w3-button w3-block w3-dark-grey">TEAM WEBSITE</button>
-          </div>
-        </div>
-      </div>
-      <!---Group Inplay--->
-       <div class="w3-third w3-container">
-        <div class="w3-card">
-          <header class="w3-container w3-light-grey">
-            <h3 style="text-align: center;">Inplay</h3>
-          </header>
-            <div class="w3-container">
-              <div class="w3-row">
-                <div class="w3-third w3-container">
-                </div>
-                <div class="w3-third w3-container">
-                  <img src="data:image/png;base64,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" alt="Avatar" class=" w3-margin" style="width:80%">
-                </div>
-                <div class="w3-third w3-container">
-                </div>
-              </div> 
-              <h3>InPlay</h3>
-              <p>Vince Kenneth L. Olemberio</p>
-              <p>Dan Mark P. Javier</p>
-              <p>Lorbelle B. Ganzan</p>
-              <p> James Laag</p>
-            </div>
-          <button class="w3-button w3-block w3-dark-grey">VISIT TEAM WEBSITE</button>
-        </div>
-      </div>
-    </div>
-    <!-- Group Team Warriors -->
+  <div class="w3-row">
     <div class="w3-third w3-container">
-      <div class="w3-card">
-        <header class="w3-container w3-light-grey">
-          <h3 style="text-align: center;">TEAM WARRIORS</h3>
-        </header>
-          <div class="w3-container">
-            <div class="w3-row">
-              <div class="w3-third w3-container">
-              </div>
-                <div class="w3-third w3-container">
-                  <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/371924218_647124337193165_3876493300717257233_n.jpg?stp=dst-jpg_p403x403&_nc_cat=105&ccb=1-7&_nc_sid=510075&_nc_eui2=AeHfqMS8zDKZbg4hwmTXMB06GIik-ixfA-UYiKT6LF8D5Vu0_EQq6sEPBO640RMAJTk_YfAOtUPBxBVA7oBj0LrN&_nc_ohc=_l0dn6x8wAIAX-dHrnw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSfdQUTpXyiLpbdLSImgCztWZGIrOIYlbNCipxCwTVjow&oe=6550033E" alt="Avatar" class=" w3-margin" style="width:80%">
-
-                </div>
-              <div class="w3-third w3-container">
-              </div>
-            </div> 
-            <h3>Group WARRIORS</h3>
-            <p>MARICAR BALAGAN</p>
-            <p>RAYMUND MACAPUNDAG</p>
-            <p>JOE MARI PADERAN</p>
-            <p>ANTONIO P. PARANE</p>
-          </div>
-        <button class="w3-button w3-block w3-dark-grey">TEAM WEBSITE</button>
-      </div>
-    </div> 
-     <!-- Group Team LIGOPHILE -->
-     <div class="w3-third w3-container">
-      <div class="w3-card">
-        <header class="w3-container w3-light-grey">
-          <h3 style="text-align: center;">TEAM LIGOPHILE</h3>
-        </header>
-          <div class="w3-container">
-            <div class="w3-row">
-              <div class="w3-third w3-container">
-              </div>
-                <div class="w3-third w3-container">
-                  <img src="https://lh3.googleusercontent.com/u/0/sheets/ACTFsxSt6vC65UxrBBoFlfyc5VucaoDjCujQmYW0t2JDQSZ7H5Lb2Ts3J5-hsc83rC2pqST7r2gIlf51NJM5P3690KqLLYxZEV2UtlXmdkQk8YY__yI_JW9-q6gORSSEL3TP15nb-K-SYMrXo1hoDPr6CoToyamh9v1dHK8rrbsHER_0TbqzLNj7XIZpxELByjV68N-lUni31s9_NlZJE6sLEc3pnbDVtIydcuqf9dBzWOq2e406v8bMnXXGYMZOc6CRRpqA9yhkKN5fnFuMFwuX9srTvPmCQs-3LLSci-V5rEhKB4T59zUY7hRqinNJweNPkv6yPhT-siHTF3rXvl0c6SjPCU3BfoR2FbmaQ9s-DKhp0FnCFt-FTNbaSKdz12Jz3fjDm4QdUqI1Bu9-7krIZ7XtwN-IS4HEPWHelwQj3C1pl3EmAqw7-1Iwa1VBEFnW9008nG3E74c5u89bBHB7Mwo1TCB3aCSBJJpv37ewIOGlW8ZMQ5XzhtdEc_4jDDBGrxxiVj9OzF1XLXvoG9GjnLXuQ2umeIwpPTyOCY2XvFIhm9qfngH_OEdti6s4M0hxeUL8DZAFhDrJMJ9y_sVQr3MtyqQv4745Zv8Ygzu-Q-Ye3StJGFPaXaXS_jPLNPJWn4zFTKwEi_RcjEnCob6MrjhVCZJH1JMn81Y1AsFPgkqBVIkUFKT_kMGZkIu35FYpPmcceUfVY_0nqJq-wXS2r_FY3h1jMDoNQNGQcGzCfnwoqXIvlIzFRi5JaEoCu97tsfppwGClpPdNpa1RiU8gzYmz7A1-NFXtF_-s24quXfkCihKZjqHWsyMp4JKOQ6_7keihmrXmiEbbFxoyw95SZ-U5Sti2hWtYCXuY6N26sz0drFIsIK860h0RNkMioGvWEavlIoU6doePfL4StlpWscQkEjOK9R1qljmwf4YiiSvu36LZvHfnmSjaUNcEemmGPQ" alt="Avatar" class=" w3-margin" style="width:80%">
-
-                </div>
-              <div class="w3-third w3-container">
-              </div>
-            </div> 
-            <h3>Group LIGOPHILE</h3>
-            <p>ASNAIRAH BALADING</p>
-            <p>NATHALYN ARIENZA</p>
-            <p>JUSTINE LAGATA</p>
-            <p>JURLAN ARAZO</p>
-          </div>
-        <button class="w3-button w3-block w3-dark-grey">TEAM WEBSITE</button>
-      </div>
-    </div> 
-        <!-- Group SYANTAX ERROR -->
-        <div class="w3-third w3-container">
-          <div class="w3-card">
-            <header class="w3-container w3-light-grey">
-              <h3 style="text-align: center;">SYANTAX ERROR</h3>
-            </header>
-              <div class="w3-container">
-                <div class="w3-row">
-                  <div class="w3-third w3-container">
-                  </div>
-                    <div class="w3-third w3-container">
-                      <img src="https://scontent.fdvo1-1.fna.fbcdn.net/v/t1.15752-9/393464241_705826324333508_218948458139509936_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGgHHax9X2S1RRT9qZPbX_5OQfUMNm-cUk5B9Qw2b5xSWu-fJjwGNafHEm7ZkGLNkbQXQ2VbmxJmIHL8-9ntjJC&_nc_ohc=jB3d0gEZNqoAX9zNrbE&_nc_ht=scontent.fdvo1-1.fna&oh=03_AdSOs_ZKaBhgaHD9jLKSdvL1qGhnQqJNVF0LZvmU9yKeYg&oe=65549FAB" alt="Avatar" class=" w3-margin" style="width:80%">
-    
-                    </div>
-                  <div class="w3-third w3-container">
-                  </div>
-                </div> 
-                <h3>Group SYANTAX ERROR</h3>
-                <p>Kristan Rey M. Flores</p>
-                <p>Clint Harold Sumampong</p>
-                <p>Vincent Roy C. Camba</p>
-                <p>Jacob Jay A. Estahan</p>
-              </div>
-            <button class="w3-button w3-block w3-dark-grey">TEAM WEBSITE</button>
-          </div>
-        </div> 
-     <!---Row 3--->
-    <div class="w3-row">
-      <!---Group 404--->
-      <div class="w3-third w3-container">
-        <div class="w3-card">
-          <header class="w3-container w3-light-grey">
-            <h3 style="text-align: center;">Group 404</h3>
-          </header>
-            <div class="w3-container">
-              <div class="w3-row">
-                <div class="w3-third w3-container">
-                </div>
-                  <div class="w3-third w3-container">
-                    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/371788607_213031108417225_2913722518076157344_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=510075&_nc_eui2=AeEpmg358YDlBwubPJJLuShth5qH_gKKv6SHmof-Aoq_pGvfmZz0QjPWc2cbFi9yVzXJPBW8u00DrN6Fj-GDgfdq&_nc_ohc=m3EzwZ7FKDYAX_UyYaZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTQimyfnDHmT48giMdkyG77lpcxTqpL7XoTTLC5tSKcrg&oe=654F2823" alt="Avatar" class=" w3-margin" style="width:80%">
-                  </div>
-                <div class="w3-third w3-container">
-                </div>
-              </div> 
-              <h3>Group 404</h3>
-              <p>Jhasen Ambogna</p>
-              <p>John Frich Magan</p>
-              <p>Jonard Pasilan</p>
-              <p>Zean Kyle Tapac</p>
-            </div>
-          <button class="w3-button w3-block w3-dark-grey">TEAM WEBSITE</button>
-        </div>
-      </div>
-  </div>    
-      <!---Group--->    
-      <!---Group--->   
     </div>
+    <div class="w3-third w3-container">
+     
+    </div>
+    <div class="w3-third w3-container">
+    </div>
+  </div>
 </body>
 </html>
