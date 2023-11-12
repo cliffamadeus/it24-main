@@ -49,4 +49,12 @@ $(document).ready(function() {
     navigateTo(path);
   });
 
+  // Example: handle back/forward buttons
+  $(window).on('popstate', function () {
+    // Load content based on the current URL
+    loadContent(location.pathname);
+  });
+
+  // Load initial content based on the current URL
+  loadContent(location.pathname);
   
