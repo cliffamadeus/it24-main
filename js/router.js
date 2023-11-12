@@ -37,4 +37,16 @@ $(document).ready(function() {
     $('#content').html('Content for path: ' + path);
   }
 
- 
+  // Example: handle clicks on links
+  $(document).on('click', 'a', function (event) {
+    // Prevent the default link behavior
+    event.preventDefault();
+
+    // Get the href attribute of the clicked link
+    var path = $(this).attr('href');
+
+    // Update the URL and content
+    navigateTo(path);
+  });
+
+  
