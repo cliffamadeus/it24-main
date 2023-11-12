@@ -21,3 +21,14 @@ $(document).ready(function() {
         });
     }
 });
+
+ // Function to update the URL and content
+ function navigateTo(path) {
+    // Use pushState to update the URL without triggering a page reload
+    history.pushState(null, null, path);
+
+    // Load content based on the path (you would replace this with your own logic)
+    loadContent(path);
+  }
+
+  
