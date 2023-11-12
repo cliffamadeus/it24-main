@@ -31,4 +31,10 @@ $(document).ready(function() {
     loadContent(path);
   }
 
-  
+  // Function to load content based on the path
+  function loadContent(path) {
+    // Replace this with your own logic to load content dynamically
+    $('#content').html('Content for path: ' + path);
+  }
+
+ 
