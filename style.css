@@ -1,0 +1,30 @@
+#squad_header{
+      background-image: url(https://genk.mediacdn.vn/2018/9/19/e039060a16976f65f1b3d32648f14b5f-15373419397071994366393.gif); object-position: center;border-width: 2px;border-style: solid;border-color: #0e7f98c6;box-shadow: -5px 0 5px 5px #6ccffd, 5px 0 5px 5px #6ccffd, -5px 5px 5px #6ccffd; font-family: Roboto; background-repeat: no-repeat;background-size: cover; background-position-y: -5px;
+    }
+    #squad_h3{
+      text-align: center;color: #DC143C;font-weight: bold;-webkit-text-stroke: 1px #fd6c9c;
+    }
+    #squad_con {
+      background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1500215551369261246/72118B95073FE0AE0C60BB6CA291694CD8CC3971/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); border-width: 2.5px; border-style: solid; border-color: #990000;box-shadow: -5px 0 5px 5.5px #DB6885, 5px 0 5px 5.5px #DB6885; background-size: auto; background-repeat: no-repeat; background-size: cover;
+    }
+    #squad_bg{
+      width: 60px; display: block; margin-left: 46%;
+    }
+    #mickel_prof{
+      width:35px;
+    }
+    #mickel_nm{
+      color: white; font-family: monospace; background-image: linear-gradient(to right, #ff78789e, #ffffffb5); border-bottom-left-radius: 11px; border-top-left-radius: 11px;
+    }
+    #mickel_git{
+      width:25px; 
+      height:20px;
+    }
+    #rc_squad{
+      width:35px;margin-top: 1px;border-radius: 50%; height: 30px;
+      width
+                    :30px; height:30px;
+    }
+    #button_squad{
+      color: rgb(255, 0, 93) !important; background-image:linear-gradient(rgba(255, 0, 76, 0.219),rgba(0, 0, 0, 0)), url(https://media.tenor.com/W8fS3sQZK5UAAAAC/10tails-naruto.gif); background-position-y: top; border-width: 2px; border-style: solid; border-color: rgb(255, 0, 81); box-shadow: -5px 0 5px 5px rgba(255, 0, 106, 0.25), 5px 0 5px 5px rgba(255, 0, 98, 0.25), 0 5px 5px 5px rgba(255, 0, 47, 0.25); transition: 0.2s; background-repeat: no-repeat; background-size: cover; font-weight: bold; font-family: monospace; font-weight: 900px; text-shadow: 1px 2px #000000;
+    }
