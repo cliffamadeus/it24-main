@@ -35,10 +35,19 @@
     margin-left: 42.5%;
 }
 
-#jam {
+#jam,
+#rey,
+#angelo,
+#jay {
     margin-left: 5%;
     color: whitesmoke;
     font-size: 18px;
+}
+
+.pictures{
+    width:25px;
+    margin-top: 1px;
+    border-radius: 50%;
 }
 
 #tagline {
