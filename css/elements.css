@@ -5,19 +5,23 @@
 .conts {
     background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
     width: 60%;
-    height: 45%;
+    height: 335px;
     align-items: center;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    margin-left: 290px;
+    margin-left: 275px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     color: whitesmoke;
 }
+.head{
+    color: rgb(234, 0, 255);
+    margin-left: 100px;
+}
 .vmstw{
-    margin-left: 635px;
+    margin-left: 625px;
     background-color:black;
     color: yellow;
 }
@@ -34,6 +38,7 @@
     background-image: url('https://i.pinimg.com/originals/c2/b4/38/c2b438ec742e21bd979e4e111941d28b.gif');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 40vw;
 }
 .james{
     width:35px;
