@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.conts {
+    background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
+    width: 60%;
+    height: 45%;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 290px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: whitesmoke;
+}
+.vmstw{
+    margin-left: 635px;
+    background-color:black;
+    color: yellow;
+}
+.m{
+    margin-left: 650px;
+    background-color: black;
+    color: yellow;
+    width: 120px;
+}
+.ma{
+    margin-left: 675px;
+}
+.bg{
+    background-image: url('https://i.pinimg.com/originals/c2/b4/38/c2b438ec742e21bd979e4e111941d28b.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.james{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 50%; 
+    height: 30px;
+}
+.louie{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 20%; 
+    height: 30px;
+}
+.louella{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 20%; 
+    height: 30px; 
+}
+.ps{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    margin-left: 332px;
+    color: rgb(234, 0, 255);
+}
+.pd{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    margin-left: 322px;
+    color: rgb(234, 0, 255);
+}
+.pf{
+    background-color: rgb(0, 0, 0);
+    width: 240px;
+    margin-left: 312px;
+    color: rgb(234, 0, 255);
+}
+.pg{
+    background-color: rgb(0, 0, 0);
+    width: 160px;
+    margin-left: 353px;
+    color: rgb(234, 0, 255);
+}
