@@ -1,4 +1,4 @@
-#upperbg {
+#ctrlz-upperbg {
     background-image: url(https://media.tenor.com/G-wNi_OIwNUAAAAC/blue-drip.gif);
     object-position: center;
     border-width: 2.5px;
@@ -11,14 +11,14 @@
     background-position-y: -40px;
 }
 
-#groupname {
+#ctrlz-groupname {
     text-align: center;
     color: whitesmoke;
     font-weight: 750;
     -webkit-text-stroke: 1px black;
 }
 
-#mainbg {
+#ctrlz-mainbg {
     background-image: url(https://media.tenor.com/OAQZ2Kpk55UAAAAC/tokyo-revengers-tokyo-manji-gang.gif);
     border-width: 2.5px;
     border-style: solid;
@@ -29,34 +29,34 @@
     background-size: cover;
 }
 
-#emblem {
+#ctrlz-emblem {
     width: 70px;
     display: block;
     margin-left: 42.5%;
 }
 
-#jam,
-#rey,
-#angelo,
-#jay {
+#ctrlz-jam,
+#ctrlz-rey,
+#ctrlz-angelo,
+#ctrlz-jay {
     margin-left: 5%;
     color: whitesmoke;
     font-size: 18px;
 }
 
-.pictures{
+.ctrlz-pictures{
     width:25px;
     margin-top: 1px;
     border-radius: 50%;
 }
 
-#tagline {
+#ctrlz-tagline {
     margin-left: 5%;
     color: whitesmoke;
     font-size: 14px;
 }
 
-#lowerbg {
+#ctrlz-lowerbg {
     color: whitesmoke !important;
     background-image: linear-gradient(whitesmoke, rgba(0, 0, 0, 0)), url(https://media.tenor.com/G-wNi_OIwNUAAAAC/blue-drip.gif);
     background-position-y: top;
