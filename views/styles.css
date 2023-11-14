@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+}
+
+.chatgpt-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 750%;
+    color:steelblue;
+}
+
+.chatgpt-text {
+    color:steelblue;
+    font-family:Impact, 'Arial Bold', sans-serif;
+}
+
+.chatgpt-logo-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    font-family:Impact, 'Arial Bold', sans-serif;
+}
+
+.chatgpt-logo {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 60%;
+    margin-right: 20px;
+}
+
+.chatgpt-avatar_ariel-chatgpt-github_logo-row {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    font-family:Impact, 'Arial Bold', sans-serif;
+}
+
+.ariel {
+    margin: 0 10px;
+    color: steelblue;
+    font-size: xx-large; 
+}  
+
+.aryel {
+    width: 90px;
+    height: auto;
+}
+
+.chatgpt-ariel-github-logo {
+    width: 50px; 
+    height: auto;
+}
+
+.yna {
+    margin: 0 10px;
+    color: steelblue;
+    font-size: xx-large; 
+}
+
+.elena {
+    width: 100px;
+    height: auto;
+}
+  
+.chatgpt-elena-github-logo {
+    width: 50px; 
+    height: auto;
+}
+
+.chatgpt-button-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.chatgpt-visit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family:Impact, Arial, sans-serif;
+    background-color: steelblue;
+    color: white;
+    border: 50%;
+    border-color: steelblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.chatgpt-visit-button:hover {
+    background-color: rgb(255, 255, 255);
+    color: steelblue;
+    border-color: steelblue;
+}

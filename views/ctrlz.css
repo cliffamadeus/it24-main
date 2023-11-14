@@ -1,0 +1,74 @@
+#ctrlz-upperbg {
+    background-image: url(https://media.tenor.com/G-wNi_OIwNUAAAAC/blue-drip.gif);
+    object-position: center;
+    border-width: 2.5px;
+    border-style: solid;
+    border-color: whitesmoke;
+    box-shadow: -5px 0 5px 5px whitesmoke, 5px 0 5px 5px whitesmoke, 0 -5px 5px 5px whitesmoke;
+    font-family: Roboto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -40px;
+}
+
+#ctrlz-groupname {
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 750;
+    -webkit-text-stroke: 1px black;
+}
+
+#ctrlz-mainbg {
+    background-image: url(https://media.tenor.com/OAQZ2Kpk55UAAAAC/tokyo-revengers-tokyo-manji-gang.gif);
+    border-width: 2.5px;
+    border-style: solid;
+    border-color: whitesmoke;
+    box-shadow: -5px 0 5px 5.5px whitesmoke, 5px 0 5px 5.5px whitesmoke;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ctrlz-emblem {
+    width: 70px;
+    display: block;
+    margin-left: 42.5%;
+}
+
+#ctrlz-jam,
+#ctrlz-rey,
+#ctrlz-angelo,
+#ctrlz-jay {
+    margin-left: 5%;
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.ctrlz-pictures{
+    width:25px;
+    margin-top: 1px;
+    border-radius: 50%;
+}
+
+#ctrlz-tagline {
+    margin-left: 5%;
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+#ctrlz-lowerbg {
+    color: whitesmoke !important;
+    background-image: linear-gradient(whitesmoke, rgba(0, 0, 0, 0)), url(https://media.tenor.com/G-wNi_OIwNUAAAAC/blue-drip.gif);
+    background-position-y: top;
+    border-width: 2px;
+    border-style: solid;
+    border-color: whitesmoke;
+    box-shadow: -5px 0 5px 5px whitesmoke, 5px 0 5px 5px whitesmoke, 0 5px 5px 5px whitesmoke;
+    transition: 0.2s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    font-family: monospace;
+    font-weight: 900px;
+    text-shadow: 1px 2px #000000;
+}
