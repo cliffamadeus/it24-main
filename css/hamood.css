@@ -1,0 +1,105 @@
+@import url('https://fonts.cdnfonts.com/css/heavy-metal-blight');
+
+#hamood_h3header {
+  background-color: rgba(68, 124, 201, 0.644);
+  font-size: medium;
+  text-align: center;
+  font-family: 'Heavy Metal Blight', sans-serif;
+  color: yellow;
+  margin-left: .5%;
+  margin-right: .5%;
+  box-shadow: 0 0 0 1.2px rgba(255, 255, 0, 0.8);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+#hamood_h3header:hover{
+  color: aliceblue;
+  background-color: rgba(26, 33, 62, 0.66);
+}
+
+#hamood_paragraph {
+  color: white;
+  font-family: monospace;
+  background-color: rgba(68, 124, 201, 0.644);
+  border-bottom-left-radius: 11px;
+  border-top-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  border-top-right-radius: 13px;
+  margin-left: .5%;
+  margin-right: .5%;
+  transition: color 0.2s ease-in-out, background-color 0.3s ease-in-out;
+  background-size: 200%;
+  box-shadow: 0 0 0 1.2px rgba(255, 255, 0, 0.8);
+}
+
+#hamood_paragraph:hover {
+  color: gold;
+  background-color: rgba(26, 33, 62, 0.66);
+}
+
+#hamood_profileicon {
+  box-shadow: 0 0 0 1.5px rgba(255, 255, 0, 0.8);
+}
+
+#hamood_container {
+  background-color: yellow;
+  border-radius: 10px;
+  padding: 10px;
+  transition: box-shadow .5s ease-in-out;
+}
+#hamood_container:hover {
+  box-shadow: 0 0 50px 10px rgba(255, 255, 0, 0.8);
+  
+}
+
+#hamood_2ndcontainer {
+  background-image: url(https://camo.githubusercontent.com/bb020751749791e783587cf8336d86f63257385bd69e9f46877ef079b6fdee43/68747470733a2f2f692e696d6775722e636f6d2f5a37697a625a452e676966);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 4%;
+}
+
+#hamood_3rdcontainer {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-color: rgba(137, 43, 226, 0.288);
+  border-radius: 4%;
+}
+
+#hamood_button {
+  background-color: rgba(68, 124, 201, 0.644);
+  margin-left: 0.5%;
+  margin-right: .5%;
+  color: aliceblue;
+  text-align: center;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 0 0 0 1.5px rgba(255, 255, 0, 0.8);
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#hamood_button:hover {
+  color: gold;
+  background-color: rgba(31, 39, 70, 0.8); /* Change the background color on hover */
+}
+
+#hamood_img {
+  width: 30%;
+  margin-left: 33%;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1.5px rgba(255, 255, 0, 0.8);
+}
+#hamood_tagline{
+  text-decoration: none;
+  font-family: "Lucida Console", Monaco, monospace;
+  color: white;
+  text-align: center;
+  font-size: smaller;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 0.018) 0%, rgba(76, 139, 227, 0.644) 52%, rgba(2, 0, 36, 0) 100%);
+}
+#hamood_tagline:hover{
+  color: gold;
+}
