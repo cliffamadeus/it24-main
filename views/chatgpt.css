@@ -1,0 +1,122 @@
+.chatgpt-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 4rem;
+    color: white;
+    border: 3px;
+    cursor: pointer;
+    background-color: steelblue;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: grey;
+    box-shadow: -5px 0 5px 5.5px lightgray,5px 0 5px 5.5px lightgray;
+    
+}
+
+.chatgpt-header:hover {
+    background-color: rgba(238, 238, 238, 0.945);
+    color: steelblue;
+    border-color: steelblue;
+}
+
+.chatgpt-text {
+    color:steelblue;
+    font-family:Impact, 'Arial Bold', sans-serif;
+}
+
+.chatgpt-logo-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-family:Impact, 'Arial Bold', sans-serif;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: gray;
+    box-shadow: -5px 0 5px 5.5px lightgray,5px 0 5px 5.5px lightgray;
+}
+
+.chatgpt-logo {
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 60%;
+    margin-top: 5px;
+}
+
+.chatgpt-avatar_ariel-row, .chatgpt-avatar_elena-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ariel {
+    margin: 0px;
+    color: steelblue;
+    font-size: xx-large; 
+}  
+
+.aryel {
+    width: 90px;
+    height: auto;
+}
+
+.chatgpt-ariel-github-logo {
+    border-radius: 100%;
+    width: 50px; 
+    height: auto;
+    margin-left: 20px;
+}
+
+.yna {
+    margin: 0px;
+    color: steelblue;
+    font-size: xx-large; 
+}
+
+.elena {
+    width: 90px;
+    height: auto;
+}
+  
+.chatgpt-elena-github-logo {
+    border-radius: 100%;
+    width: 50px; 
+    height: auto;
+    margin-left: 20px;
+}
+
+.chatgpt-button-row .w3-block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.chatgpt-visit-button {
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    background-color: steelblue;
+    color: white;
+    border: 3px;
+    border-color: steelblue;
+    cursor: pointer;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: slategrey;
+    box-shadow: -5px 0 5px 5.5px lightgray,5px 0 5px 5.5px lightgray;
+}
+
+.chatgpt-visit-button:hover {
+    background-color: rgba(238, 238, 238, 0.945);
+    color: steelblue;
+    border-color: steelblue;
+}
