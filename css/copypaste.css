@@ -48,3 +48,11 @@
     border-bottom-left-radius: 11px;
     border-top-left-radius: 11px;
 }
+.copypaste-edoy{
+    color: rgb(0, 0, 0);
+    font-family: monospace; 
+    font-weight: bold;
+    background-image: linear-gradient(to right, rgba(37, 214, 205, 0.685), rgba(190, 203, 255, 0.004));
+    border-bottom-left-radius: 11px;
+    border-top-left-radius: 11px;
+}
