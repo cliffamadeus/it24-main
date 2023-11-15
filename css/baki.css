@@ -1,0 +1,25 @@
+.images{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 50%; 
+    height: 30px;
+}
+.prof{
+    width: 100px;
+}
+.ron{
+    width: 50px;
+}
+.b{
+    width: 500px;
+    height: 380px;
+    align-items: center;
+    border: 4px;
+    border-color: black;
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 370px;
+}
+.v{
+    border: 1px;
+}
