@@ -45,3 +45,21 @@
       -webkit-text-stroke: 1px rgb(109, 7, 7);
 
 }
+.Dyoas-name{
+    margin-left: 5%;
+     color: rgb(255, 255, 255); 
+     font-family: monospace;
+    font-size: 18px;
+     font-family: monospace; 
+     font-size: 18px;font-weight: 750;
+     -webkit-text-stroke: 1px black;
+}
+.ngan{
+    color: rgb(236, 16, 16);
+      font-size: 18px;
+      font-weight: 750;
+      -webkit-text-stroke: 1px black;
+}
+.nagn2{
+    color: red;
+}
