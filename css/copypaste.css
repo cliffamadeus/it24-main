@@ -26,3 +26,17 @@
     background-size: cover;
     background-image: url(https://i2.wp.com/defense-arab.com/vb/attachments/468805/);
 }
+.copypaste-a{
+    width: 70px;
+    display: block;
+    margin-left: 42.5%;
+    
+}
+.copypaste-josip{
+    color: rgb(5, 4, 4);
+    font-family: cursive;
+    font-weight: bold;
+    background-image: linear-gradient(to right, rgba(113, 245, 238, 0.685), rgba(190, 203, 255, 0.004));
+    border-bottom-left-radius: 11px;
+    border-top-left-radius: 11px;  
+}
