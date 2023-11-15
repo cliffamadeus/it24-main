@@ -1,0 +1,17 @@
+.copypaste-header{
+    object-position: center;
+    border-width: 2.5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    box-shadow: -5px 0 5px 5px rgba(253, 146, 46, 0), 5px 0 5px 5px rgba(253, 146, 46, 0),0 -5px 5px 5px rgba(253, 146, 46, 0);
+    font-family: Roboto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -250px;
+}
+.copypaste-h3{
+    text-align: center;
+    color: rgb(253, 253, 253);
+    font-weight: 750;
+    -webkit-text-stroke: 1px black;text-shadow: 1px 2px #030303;  
+}
