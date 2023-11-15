@@ -1,0 +1,40 @@
+
+.decoders-header{
+    background-image: url(https://giffiles.alphacoders.com/119/119969.gif);
+    box-shadow: 0px 0px 8px 4px rgb(88, 116, 116);
+}
+.decoders-h3header{
+    text-align: center;
+    font-family: 'LUTRAGO', Georgia, 'Times New Roman', Times, serif;
+    color: rgb(161, 146, 146);
+    font-weight: bold; 
+}
+.decoders-con{
+    background-image: linear-gradient(rgba(69, 30, 78, 0.703), rgba(52, 0, 125, 0.511)), url(https://giffiles.alphacoders.com/119/119969.gif);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    box-shadow: 0px 0px 8px 4px rgba(0, 170, 255, 0.722);
+}
+.decoders-bg{
+    width:80%;
+}
+.decoders-membername{
+    color: rgb(245, 250, 252);
+    font-family: monospace; 
+    background-image: linear-gradient(to right, rgba(68, 124, 201, 0.644), rgba(190, 203, 255, 0.004)); 
+    border-bottom-left-radius: 11px; 
+    border-top-left-radius: 11px;
+}
+.decoders-prof{
+    width: 25px;
+    height: 25px;
+}
+.decoders-link{
+    width: 25px;
+    height: 25px;
+}
+.decoders-buttonBg{
+    background-image: url(https://giffiles.alphacoders.com/119/119969.gif);  
+    box-shadow: 0px 0px 8px 4px #0ff;
+}
