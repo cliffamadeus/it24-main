@@ -1,0 +1,27 @@
+.Header-Error{
+    background-image:url(https://i.pinimg.com/originals/24/bf/9e/24bf9ea5632d759d4793dabbc51e89c6.gif) ;
+    object-position: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(14, 14, 14);
+    box-shadow: -5px 0 5px 5px rgba(12, 12, 12, 0.25), 5px 0 5px 5px rgba(0, 0, 0, 0.25), 0 -5px 5px 5px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -40px;
+}
+.Error-text{
+    text-shadow: 1px 1px 1px #410808,
+    1px 2px 1px rgb(245, 10, 30),
+    1px 3px 1px #b91212,
+    1px 4px 1px rgb(187, 17, 17),
+    1px 5px 1px #9c0404,
+    1px 6px 1px #7a0909,
+    1px 10px 5px rgba(16, 16, 16, 0.5),
+    1px 15px 10px rgba(16, 16, 16, 0.4),
+    1px 20px 30px rgba(16, 16, 16, 0.3),
+    1px 25px 50px rgba(16, 16, 16, 0.2);
+    text-align: center;
+    color:rgb(248, 248, 248);
+    text-shadow: rgb(27, 27, 27);
+    font-family: 'Heavy Metal Blight', sans-serif;
+ }   
