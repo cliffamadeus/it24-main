@@ -1,0 +1,66 @@
+body, h1, p, div, span {
+    margin: 0;
+    padding: 0;
+}
+
+.inplay-header {
+    background-image: url(https://i.pinimg.com/originals/4e/43/23/4e432360601c9df1cab3274448a0fa56.gif);
+    box-shadow: 0px 0px 8px 4px rgb(16, 84, 255);
+}
+
+.inplay-heading {
+    text-align: center;
+    font-family: 'LUTRAGO', Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+    font-weight: bold;
+}
+
+.inplay-container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i.pinimg.com/originals/62/82/0a/62820a3251082ac356b5fd45c8cc324f.gif);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0px 0px 8px 4px rgba(0, 170, 255, 0.722);
+}
+
+.inplay-logo {
+    width: 80%;
+}
+
+.inplay-description {
+    color: white;
+}
+
+.inplay-members-heading {
+    color: white;
+}
+
+.inplay-member {
+    color: white;
+    background-image: linear-gradient(to right, rgba(0, 75, 225, 0.644), rgba(190, 203, 255, 0.004));
+    border-bottom-left-radius: 11px;
+    border-top-left-radius: 11px;
+}
+
+.inplay-member-avatar {
+    width: 25px;
+    height: 25px;
+}
+
+.inplay-member-name {
+    margin-left: 5px;
+}
+
+.inplay-member-link {
+    float: right;
+}
+
+.inplay-member-link-icon {
+    width: 25px;
+    height: 25px;
+}
+
+.inplay-button {
+    background-image: url(https://i.pinimg.com/originals/3f/3d/9b/3f3d9b221088cb6524317c5b649a656d.gif);
+    box-shadow: 0px 0px 8px 4px #0ff;
+}
