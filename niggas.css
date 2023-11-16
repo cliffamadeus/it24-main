@@ -1,0 +1,17 @@
+.NiggaNames{
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 18px; 
+    background-image: linear-gradient(to right, rgba(68, 68, 69, 0.644), rgba(190, 203, 255, 0.004)); 
+    border-bottom-left-radius: 11px; 
+    border-top-left-radius: 11px;
+}
+
+.NiggaPics{
+    width: auto;
+}
+
+.NiggaBackground{
+    background-image: url(https://media.tenor.com/p0QykD9p40QAAAAd/brandon-barber-thug.gif);
+}
