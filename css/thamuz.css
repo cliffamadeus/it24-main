@@ -1,0 +1,38 @@
+.thamuz_header {
+
+    text-align: center; font-style: italic; 
+    font-size: 30px;
+    font-weight: 1000; color:red;
+}
+.thamuz_header_class {
+
+    background-image: url(https://pa1.aminoapps.com/7560/fb50eaa9067832e3d13677cc7f6750d61f855a99r1-784-368_hq.gif);
+    background-size: auto; background-position: center; object-fit: fill; 
+    background-repeat: no-repeat;  border-width: 2px; border-style: solid; border-color: rgb(255, 123, 0);
+}
+
+ .thamuz_header_class2 {
+     background-image: url(https://i.pinimg.com/originals/7f/2b/db/7f2bdbbce3fdb2135605d8e5f148f6d9.gif);
+     background-size: auto; background-position: center;
+     object-fit: fill; background-repeat: no-repeat;  border-width: 2px;
+     border-style: solid; border-color: rgb(255, 123, 0);
+}
+
+.thamuz_logo {
+    width: 60px; display: block; margin-left: 40%;
+
+}
+
+.thamuz_style_span {
+    background-color: yellow; padding: 5px;
+}
+
+.thamuz_icon {
+    width: 25px;
+}
+.thamuz_button {
+
+    background-image: url(https://pa1.aminoapps.com/7560/fb50eaa9067832e3d13677cc7f6750d61f855a99r1-784-368_hq.gif);
+    background-position-y:top;border-width: 2px;border-style: solid; border-width: 2px; border-color: rgb(255, 123, 0);
+      
+}
