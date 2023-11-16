@@ -1,0 +1,35 @@
+.lpic{
+    width:35px;
+    height: 40px;
+    border-radius: 25px;
+}
+.limage{
+    width: 8%;
+    margin-top: 1px;
+    border-radius: 50%; 
+    margin-left: 575px;
+}
+.lbox{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    margin-left: 375px;
+    text-align: center;
+    background-color: gray;
+}
+.lcon{
+    height: 480px;
+    width: 1250px;
+    background-color: black;
+}
+.loading{
+    text-align: center;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.lgit{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
