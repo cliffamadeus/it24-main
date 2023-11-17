@@ -25,6 +25,12 @@
     background-size: cover;
     height: 40vw;
 }
+.lmnttitle{
+    margin-left: 630px;
+    background-color: black;
+    color: yellow;
+    width: 120px;
+}
 .lmntpic{
     margin-left: 655px;
     width: 70px;
