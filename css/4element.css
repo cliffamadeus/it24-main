@@ -19,4 +19,9 @@
     height: 30px;
     border-radius: 20px;
  }
-
+ .lmntbg{
+    background-image: url('https://i.pinimg.com/originals/c2/b4/38/c2b438ec742e21bd979e4e111941d28b.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vw;
+}
