@@ -1,0 +1,71 @@
+.TeambanganUp{
+    background-image: url('https://i.postimg.cc/59Lcdq47/giphy-gif-cid-ecf05e4759gqb4ftzsd8eypkj3on3g5dhgkpjzrb696ti4kg-ep-v1-gifs-search-rid-giphy.gif');
+    object-position: center; 
+    background-repeat: no-repeat;
+     background-size: cover; 
+    background-position-y: -10px; 
+    box-shadow: 0px 0px 8px 4px aqua;
+}
+.TeambanganTitle{
+    text-align: center; 
+    font-size: 36px; 
+    text-transform: uppercase; 
+    font-family: Arial; 
+    color:black; 
+    font-weight: 800;
+    background-image: url('https://i.postimg.cc/9XKQQMVz/giphy-downsized-large.gif');
+    background-position-y: -100px;  
+    -webkit-background-clip: text; 
+    background-clip: text; 
+    color: transparent;
+}
+.TeambanganCover{
+    background-image: url('https://i.postimg.cc/V6Hkx9zL/giphy-gif-cid-ecf05e47btumsncg5lnkx89ra3mawkeisoba2pxc5a88cii2-ep-v1-gifs-search-rid-giphy.gif');
+    background-size:cover; 
+    border-color: #60b8ce;  
+    box-shadow: 0px 0px 6px 3px aqua;
+}
+.Group1{
+    font-family: monospace; 
+    color:whitesmoke; 
+    font-weight:550; 
+    -webkit-text-stroke: 1px rgba(0, 255, 242, 0.459);
+    text-shadow: 0 0 8px aqua;
+}
+.TeambanganNames{
+    margin-left: 5%; 
+    font-family: monospace; 
+    font-size: 18px; 
+    background-color:rgba(0, 0, 0, 0.200); 
+    color:aqua; border-top-right-radius: 5px; 
+    border-top-left-radius: 20px; 
+    border-bottom-left-radius:5px; 
+    border-bottom-right-radius: 100px; 
+    text-shadow: 0 0 10px aqua;
+}
+.TeambanganNames:hover{
+    color:aquamarine;
+    background-color: rgba(0, 0, 0, 0.253);
+}
+.TeambanganProfile{
+    border-radius: 100%; 
+    box-shadow: 0 0 20px aqua;
+    width:40px; 
+    height:30px;
+
+}
+.TeambanganGit{
+    border-radius: 100%; 
+    box-shadow: 0 0 10px aqua;
+}
+.TeambanganBot{
+    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UwMjM0MTJ6N2ZhOXJyOTRwN294MGNxaXI5a2dobmJmbzJuZm15ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BLrRvAPjC44WoNC6zQ/giphy.gif'); 
+    background-size: cover; 
+    text-shadow: 0 0 10px aqua; 
+    box-shadow: 0px 0px 8px 4px aqua; 
+    background-position-y: -400px;
+}
+.TeambanganBot:hover{
+    color:aquamarine;
+    background-color: rgba(0, 0, 0, 0.253);
+}
