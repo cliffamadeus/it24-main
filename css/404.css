@@ -1,0 +1,66 @@
+
+.Head{
+    background-image: url(https://i.pinimg.com/originals/d4/0d/57/d40d57c9adde851e8f82f7443c73be56.gif);
+    object-position: center;
+    border-width: 2.5px;
+    border-style: solid;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position-y: -30px;
+    text-decoration:none !important;
+    box-shadow: -5px 0 5px 5.5px rgba(251, 0, 0), 5px 0 5px 5.5px rgba(251, 0, 0);
+   }
+.Header{
+      text-align: center; 
+      color: rgb(255, 255, 255); 
+      font-family: 'Heavy Metal Blight', sans-serif; 
+
+     }
+.Body{
+  background-image: url(https://i.pinimg.com/originals/35/9a/52/359a52f0ad143eef74248b3d4035282a.gif); 
+  border-width: 1.0px;
+  border-style: solid; 
+  background-size: auto, 50%; 
+  box-shadow: -5px 0 5px 5.5px rgba(55, 0, 255, 0.25), 5px 0 5px 5.5px rgba(17, 0, 255, 0.25); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Logo{
+  width: 70px; 
+  display: block; 
+  box-shadow: 0px 0px 2.5px 1px rgb(0, 251, 21);
+  margin-left: 48%;
+}
+.Names{
+  margin-left: 5%;
+  color: rgb(255, 255, 255);
+  font-family: 'Fantasy Fonts', Impact;
+  font-size: 18px; 
+}
+.Avatar{
+  width:30px;
+  height: 30px;
+  margin-top: 2px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 2.5px 1px rgb(251, 0, 0);
+}
+.Githublogo{
+  box-shadow: 0px 0px 2.5px 1px rgb(251, 0, 0);
+}
+.Button{
+      color: rgb(255, 255, 255) !important;
+      background-image:url(https://i.pinimg.com/originals/35/9a/52/359a52f0ad143eef74248b3d4035282a.gif);
+      background-position-y: center; 
+      border-width: 2px;
+      border-style: solid;
+      transition: 0.1s;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: bold; 
+      font-family: monospace; 
+      font-weight: 900px; 
+      background-position-y: -100px;
+}
+
+
+
