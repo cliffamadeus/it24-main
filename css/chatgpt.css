@@ -48,7 +48,9 @@
     margin-top: 5px;
 }
 
-.chatgpt-avatar_ariel-row, .chatgpt-avatar_elena-row {
+.chatgpt-avatar_ariel-row, 
+.chatgpt-avatar_elena-row, 
+.chatgpt-avatar_jeph-row {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -57,18 +59,21 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.ariel {
+.ariel,
+.jeph {
     margin: 0px;
     color: steelblue;
     font-size: xx-large; 
-}  
+} 
 
-.aryel {
+.aryel,
+.jeph {
     width: 90px;
     height: auto;
 }
 
-.chatgpt-ariel-github-logo {
+.chatgpt-ariel-github-logo,
+.chatgpt-jephunneh-github-logo {
     border-radius: 100%;
     width: 50px; 
     height: auto;
