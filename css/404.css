@@ -10,12 +10,7 @@
   text-decoration:none !important;
   box-shadow: -5px 0 5px 5.5px rgba(251, 0, 0), 5px 0 5px 5.5px rgba(251, 0, 0);
  }
-.Header{
-      text-align: center; 
-      color: rgb(255, 255, 255); 
-      font-family: 'Heavy Metal Blight', sans-serif; 
 
-     }
 .Body{
   background-image: url(https://i.pinimg.com/originals/35/9a/52/359a52f0ad143eef74248b3d4035282a.gif); 
   border-width: 1.0px;
