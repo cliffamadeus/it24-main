@@ -1,15 +1,15 @@
 
 .Head{
-    background-image: url(https://i.pinimg.com/originals/d4/0d/57/d40d57c9adde851e8f82f7443c73be56.gif);
-    object-position: center;
-    border-width: 2.5px;
-    border-style: solid;
-    background-repeat: no-repeat;
-    background-size: cover; 
-    background-position-y: -30px;
-    text-decoration:none !important;
-    box-shadow: -5px 0 5px 5.5px rgba(251, 0, 0), 5px 0 5px 5.5px rgba(251, 0, 0);
-   }
+  background-image: url(https://i.pinimg.com/originals/d4/0d/57/d40d57c9adde851e8f82f7443c73be56.gif);
+  object-position: center;
+  border-width: 2.5px;
+  border-style: solid;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position-y: -30px;
+  text-decoration:none !important;
+  box-shadow: -5px 0 5px 5.5px rgba(251, 0, 0), 5px 0 5px 5.5px rgba(251, 0, 0);
+ }
 .Header{
       text-align: center; 
       color: rgb(255, 255, 255); 
