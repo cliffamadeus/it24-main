@@ -32,6 +32,7 @@
 .lmnt-title{
     background-color: black;
     color: yellow;
+    text-align: center;
 }
 
 .lmnt-emblem{
@@ -40,10 +41,13 @@
 }
 
 
-.lmnthead{
+.lmnt-header{
     color: rgb(234, 0, 255);
-    margin-left:355px;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
 }
+
+
 .lmntpjms{
     background-color: rgb(0, 0, 0);
     width: 200px;
