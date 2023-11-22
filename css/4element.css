@@ -2,7 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-.lmntcont {
+/*
+.lmnt-body {
     background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
     width: 60%;
     height: 335px;
@@ -13,18 +14,21 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     color: whitesmoke;
+}*/
+
+.lmnt-bg{
+    background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vw;
 }
+
 .lmntgit{
     width: 30px;
     height: 30px;
     border-radius: 20px;
  }
- .lmntbg{
-    background-image: url('https://i.pinimg.com/originals/c2/b4/38/c2b438ec742e21bd979e4e111941d28b.gif');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 40vw;
-}
+ 
 .lmnt-title{
     background-color: black;
     color: yellow;
