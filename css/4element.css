@@ -25,16 +25,17 @@
     background-size: cover;
     height: 40vw;
 }
-.lmnttitle{
-    margin-left: 630px;
+.lmnt-title{
     background-color: black;
     color: yellow;
-    width: 120px;
 }
-.lmntpic{
+
+.lmnt-emblem{
     margin-left: 655px;
     width: 70px;
 }
+
+
 .lmnthead{
     color: rgb(234, 0, 255);
     margin-left:355px;
