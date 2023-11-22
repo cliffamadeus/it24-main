@@ -2,19 +2,6 @@
     margin: 0px;
     padding: 0px;
 }
-/*
-.lmnt-body {
-    background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
-    width: 60%;
-    height: 335px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    margin-left: 255px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
-    color: whitesmoke;
-}*/
 
 .lmnt-bg{
     background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
@@ -41,53 +28,6 @@
     width: 70px;
 }
 
-
-
-
-
-.lmntpjms{
-    background-color: rgb(0, 0, 0);
-    width: 200px;
-    margin-left: 332px;
-    color: rgb(234, 0, 255);
-}
-.lmntjames{
-    width:35px;
-    margin-top: 1px;
-    border-radius: 25px; 
-    height: 30px;
-}
-.lmntlouie{
-    width:35px;
-    margin-top: 1px;
-    border-radius: 25px; 
-    height: 30px;
-}
-.lmntploy{
-    background-color: rgb(0, 0, 0);
-    width: 220px;
-    margin-left: 322px;
-    color: rgb(234, 0, 255);
-}
-.lmntlouella{
-    width:35px;
-    margin-top: 1px;
-    border-radius: 25px; 
-    height: 30px; 
-}
-.lmntplou{
-    background-color: rgb(0, 0, 0);
-    width: 240px;
-    margin-left: 312px;
-    color: rgb(234, 0, 255);
-}
-.lmntpjncyl{
-    background-color: rgb(0, 0, 0);
-    width: 160px;
-    margin-left: 353px;
-    color: rgb(234, 0, 255);
-    text-align: center;
-}
 .lmnt-team-site-btn{
     background-color: black;
     color: rgb(255, 251, 0);
@@ -96,3 +36,63 @@
     padding-block: 30px;
     font-size: x-large;
 }
+
+/* */
+.lmnt-pjms{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    margin-left: 332px;
+    color: rgb(234, 0, 255);
+}
+.lmnt-james{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px;
+}
+.lmnt-louie{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px;
+}
+.lmnt-ploy{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    margin-left: 322px;
+    color: rgb(234, 0, 255);
+}
+.lmnt-louella{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px; 
+}
+.lmnt-plou{
+    background-color: rgb(0, 0, 0);
+    width: 240px;
+    margin-left: 312px;
+    color: rgb(234, 0, 255);
+}
+.lmnt-pjncyl{
+    background-color: rgb(0, 0, 0);
+    width: 160px;
+    margin-left: 353px;
+    color: rgb(234, 0, 255);
+    text-align: center;
+}
+
+/*
+.lmnt-body {
+    background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
+    width: 60%;
+    height: 335px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 255px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: whitesmoke;
+}*/
+
