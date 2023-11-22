@@ -51,7 +51,7 @@ margin-left: 42.5%;
     text-shadow: 0 0 10px aqua;
 }
 .TeambanganNames:hover{
-    color:rgba(21, 131, 94, 0.514);
+    color:rgb(157, 255, 222);
     background-color: rgba(0, 0, 0, 0.253);
 }
 .TeambanganProfile{
@@ -72,9 +72,10 @@ margin-left: 42.5%;
     background-size: cover; 
     text-shadow: 0 0 10px rgb(47, 192, 192); 
     box-shadow: 0px 0px 8px 4px aqua; 
+    color:white;
     background-position-y: -400px;
 }
 .TeambanganBot:hover{
-    color:aquamarine;
+    color:rgb(0, 255, 170);
     background-color: rgba(0, 0, 0, 0.253);
 }
