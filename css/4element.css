@@ -2,7 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-.lmntcont {
+/*
+.lmnt-body {
     background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
     width: 60%;
     height: 335px;
@@ -13,32 +14,37 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     color: whitesmoke;
-}
-.lmntgit{
-    width: 30px;
-    height: 30px;
-    border-radius: 20px;
- }
- .lmntbg{
-    background-image: url('https://i.pinimg.com/originals/c2/b4/38/c2b438ec742e21bd979e4e111941d28b.gif');
+}*/
+
+.lmnt-bg{
+    background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
     background-repeat: no-repeat;
     background-size: cover;
     height: 40vw;
 }
-.lmnttitle{
-    margin-left: 630px;
+
+.lmnt-git-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+ }
+ 
+.lmnt-title{
     background-color: black;
-    color: yellow;
-    width: 120px;
+    color: rgb(234, 0, 255);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
 }
-.lmntpic{
+
+.lmnt-emblem{
     margin-left: 655px;
     width: 70px;
 }
-.lmnthead{
-    color: rgb(234, 0, 255);
-    margin-left:355px;
-}
+
+
+
+
+
 .lmntpjms{
     background-color: rgb(0, 0, 0);
     width: 200px;
@@ -82,9 +88,11 @@
     color: rgb(234, 0, 255);
     text-align: center;
 }
-.lmntvmstw{
-    width: 200px;
-    margin-left: 585px;
-    background-color:black;
-    color: yellow;
+.lmnt-team-site-btn{
+    background-color: black;
+    color: rgb(255, 251, 0);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-block: 30px;
+    font-size: x-large;
 }
