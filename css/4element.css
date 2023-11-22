@@ -88,9 +88,11 @@
     color: rgb(234, 0, 255);
     text-align: center;
 }
-.lmntvmstw{
-    width: 200px;
-    margin-left: 585px;
-    background-color:black;
-    color: yellow;
+.lmnt-team-site-btn{
+    background-color: black;
+    color: rgb(255, 251, 0);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-block: 30px;
+    font-size: x-large;
 }
