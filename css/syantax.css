@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .lmnt-bg{
+    background-image: url('https://i.pinimg.com/originals/a0/ce/c7/a0cec76b4297c2381fcc16b757cede7b.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+} */
+
+.syan-git-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+ }
+ 
+.syan-title{
+    background-color: black;
+    color: rgb(234, 0, 255);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.syan-emblem{
+    margin-left: 655px;
+    width: 70px;
+}
+
+.syan-team-site-btn{
+    background-color: black;
+    color: rgb(255, 251, 0);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-block: 30px;
+    font-size: x-large;
+}
+
+/* */
+
+.syan-roy{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px;
+}
+.syan-kristan{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px;
+}
+
+.syan-jacob{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px; 
+}
+.syan-clint{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px; 
+}
