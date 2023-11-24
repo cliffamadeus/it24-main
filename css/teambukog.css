@@ -1,0 +1,57 @@
+.Teambukog-Names{
+    margin-left: 5%; 
+    color: rgb(255, 255, 255); 
+    font-family: monospace; 
+    font-size: 18px;
+}
+.teambukog-header{
+    background-image: url(https://media0.giphy.com/media/kg19fN5BXbZGIDznzG/giphy.gif?cid=ecf05e47zsrdytcnhhm41ofy8w6ka4gf8lxrnrj8bjuq8cka&ep=v1_gifs_search&rid=giphy.gif&ct=g); 
+    object-position: center; 
+    border-width: 2.5px; 
+    border-style: solid; 
+    border-color: rgb(16, 81, 221); 
+    box-shadow: -5px 0 5px 5px rgba(0, 225, 255, 0.25), 5px 0 5px 5px rgba(0, 225, 255, 0.25), 0 -5px 5px 5px rgba(0, 225, 255, 0.25); 
+    font-family: Roboto; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position-y: -40px;
+}
+.teambukog{
+    text-align: center; 
+    color: rgb(255, 255, 255); 
+    font-weight: 1000; 
+    -webkit-text-stroke: 2px black; 
+    font-style: italic; 
+    font-size: 40px;
+}
+.teambukog-cover{
+    background-image: url(https://media0.giphy.com/media/kg19fN5BXbZGIDznzG/giphy.gif?cid=ecf05e47zsrdytcnhhm41ofy8w6ka4gf8lxrnrj8bjuq8cka&ep=v1_gifs_search&rid=giphy.gif&ct=g); 
+    border-width: 2.5px; 
+    border-style: solid; 
+    border-color: rgb(38, 97, 226); 
+    box-shadow: -5px 0 5px 5.5px rgba(0, 225, 255, 0.25), 5px 0 5px 5.5px rgba(0, 225, 255, 0.25); 
+    background-size: auto; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.teambukog-emblem{
+    width: 70px; 
+    display: block; 
+    margin-left: 42.5%; 
+    margin-top: 5px;
+}
+.teambukog-profile{
+    border-radius: 100%; 
+    box-shadow: 0 0 10px aqua;
+    width:25px; 
+    height:25px;
+}
+.teambukog-git{
+width:25px;
+     height:25px;
+    border-radius: 100%; 
+    box-shadow: 0 0 10px aqua;
+}
+.Group{
+    color:rgb(221, 216, 216);
+}
