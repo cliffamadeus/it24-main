@@ -57,23 +57,24 @@
     justify-content: center;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .ariel,
 .jeph {
     margin: 0px;
     color: steelblue;
-    font-size: xx-large; 
-} 
+    font-size: xx-large;
+}
 
 .aryel,
-.jeph {
+.elena {
     width: 90px;
     height: auto;
 }
 
 .chatgpt-ariel-github-logo,
-.chatgpt-jephunneh-github-logo {
+.chatgpt-elena-github-logo {
     border-radius: 100%;
     width: 50px; 
     height: auto;
@@ -86,16 +87,16 @@
     font-size: xx-large; 
 }
 
-.elena {
-    width: 90px;
+.jephunneh {
+    width: 80px;
     height: auto;
 }
   
-.chatgpt-elena-github-logo {
+.chatgpt-jephunneh-github-logo {
     border-radius: 100%;
     width: 50px; 
     height: auto;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .chatgpt-button-row .w3-block{
