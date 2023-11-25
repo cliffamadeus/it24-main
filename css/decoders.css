@@ -39,3 +39,8 @@
     width: 30px; 
     height: 30px;
 }
+.decoders-link {
+    border-radius: 40%;
+    width: 30px;
+    margin-left: auto;
+}
