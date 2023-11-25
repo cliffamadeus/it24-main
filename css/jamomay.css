@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.jam-bg{
+    background-image: url('https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.jam-git-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+ }
+ 
+.jam-title{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.jam-emblem{
+    margin-left: 655px;
+    width: 70px;
+}
+
+.jam-team-site-btn{
+    background-color: black;
+    color: rgb(255, 251, 0);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-block: 30px;
+    font-size: x-large;
+}
+
+/* */
+
+.jam-marjon{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px;
+}
+.jam-sherwin{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px;
+}
+
+.jam-nica{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px; 
+}
+.jam-ivan{
+    width:35px;
+    margin-top: 1px;
+    border-radius: 25px; 
+    height: 30px; 
+}
+
+/* .lmnt-plou{
+    background-color: rgb(0, 0, 0);
+    width: 240px;
+    margin-left: 312px;
+    color: rgb(234, 0, 255);
+}
+.lmnt-pjncyl{
+    background-color: rgb(0, 0, 0);
+    width: 160px;
+    margin-left: 353px;
+    color: rgb(234, 0, 255);
+    text-align: center;
+} */
+
+
+
