@@ -8,3 +8,10 @@
         width: 80%;
         padding-top: 5%;
     }
+    .decoders-grofy{
+        text-align: center;
+        margin-top: 10px;
+        color: aquamarine;
+        position: relative;
+        font-weight: 700;
+        }
