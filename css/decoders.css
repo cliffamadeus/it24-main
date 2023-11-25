@@ -3,3 +3,7 @@ background-image: url('https://i.pinimg.com/originals/48/69/10/48691010fc420959d
 background-size: cover;
 height: auto;
 }
+.decoders-logo{
+    width: 80%;
+    padding-top: 5%;
+}
