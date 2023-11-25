@@ -1,0 +1,68 @@
+.lagyou-header{
+    background-image: url(https://i.postimg.cc/DyxJjNwk/giphy.gif); 
+    object-position:center; 
+    border-width: 2.5px; border-style: solid; border-color: rgb(255, 0, 43); 
+    box-shadow: 0 0 10px 5px rgb(255, 0, 43); 
+    font-family: Roboto; 
+    background-repeat: no- repeat;
+    background-size: cover; 
+    background-position-y: -170px; 
+}
+.lagyou{
+    text-align: center; 
+    color:rgb(0, 0, 0); 
+    font-weight: 1000; 
+    -webkit-text-stroke:2px rgb(255, 0, 43); 
+    font-style: italic; 
+    font-size: 40px
+}
+.lagyou-cover{
+    background-image: url('https://i.postimg.cc/XYsQcWPR/giphy.gif'); 
+    border-width: 2.5px; 
+    border-style:solid; 
+    border-color: black; 
+    box-shadow: 0 0 10px 5px rgb(255, 0, 43);  
+    background-size: auto; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position-x: 0px;
+}
+.lagyou-logo{
+    width: 70px; 
+    display: block; 
+    box-shadow: 0px 0px 10px rgb(103, 255, 43); 
+    margin-left: 42.5%;
+}
+.ebarin{
+    margin-left: 25%;  
+    background-color: black; 
+    color:rgb(179, 255, 0); 
+    margin-right: 60%;
+}
+.lagyou-names{
+    margin-left: 5%; 
+    font-family: monospace; 
+    font-size: 18px; 
+    background-color: rgba(0, 0, 0, 0.363);
+    color:white; 
+    text-shadow: 0 0 8px rgb(228, 255, 164); 
+}
+.lagyou-profile{
+    width: 25px; 
+    height: 25px; 
+}
+.lagyou-git{
+    width:25px; 
+    height:25px;
+}
+.lagyou-button{
+    background-image: url(https://i.postimg.cc/DyxJjNwk/giphy.gif); 
+    border-width: 2.5px; 
+    border-style: solid; 
+    border-color: black; 
+    box-shadow: 0 0 10px 5px rgb(255, 0, 43); 
+    font-family: Roboto; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position-y: -300px;
+}
