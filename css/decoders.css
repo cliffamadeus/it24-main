@@ -1,9 +1,26 @@
+
 .decoders-bg{
 background-image: url('https://i.pinimg.com/originals/48/69/10/48691010fc420959ddbad33ab95f323b.gif');
 background-size: cover;
+background-repeat: no-repeat;
 height: auto;
 }
 .decoders-logo{
     width: 80%;
     padding-top: 5%;
+}
+.decoders-grofy{
+text-align: center;
+margin-top: 10px;
+color: aquamarine;
+position: relative;
+font-weight: 700;
+}
+.decoders-unique{
+background-image: url('https://media.tenor.com/ssrZ0CO7KzgAAAAM/nbdne.gif');
+    text-align: center;
+    text-shadow: 0cqb;
+    text-decoration: dotted;
+   color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
