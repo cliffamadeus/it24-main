@@ -37,3 +37,10 @@
            position: relative;
            margin: 10px;
        }
+       .decoders-prof{
+        display: inline-block;
+        border-radius: 50%;
+        margin-left: auto;
+        width: 30px; 
+        height: 30px;
+    }    
