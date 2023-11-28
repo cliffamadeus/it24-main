@@ -28,14 +28,9 @@
             color: aqua;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
        }
-       .decoders-p{
-        box-shadow: 0cm; color: rgb(107, 182, 107);
-          text-align: center;
-        font-weight: 900;
-           font-size: 16px;
-           line-height: 1.6;
-           position: relative;
-           margin: 10px;
+       p{
+       color: green;
+      font-weight: 900;
        }
        .decoders-prof{
         display: inline-block;
@@ -43,4 +38,9 @@
         margin-left: auto;
         width: 30px; 
         height: 30px;
-    }    
+    }  
+    .decoders-link {
+        border-radius: 40%;
+        width: 30px;
+        margin-left: auto;
+    }  
