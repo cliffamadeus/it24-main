@@ -11,9 +11,12 @@
     background-position-y: -5px;
 }
 
-.jamco-h3 {
+.jamco-header {
+    background-image: url(https://i.pinimg.com/originals/33/80/c6/3380c67117f868fb41ef2b1170fd5dc7.gif);
+    object-position: center;
     text-align: center;
-    color: #000000;
+    color: #ffffff;
+    font-size: 25px;
     font-weight: bold;
 }
 
@@ -31,9 +34,9 @@
 }
 
 .jamco-button {
+    background-image: url(https://i.pinimg.com/originals/33/80/c6/3380c67117f868fb41ef2b1170fd5dc7.gif);
+    object-position: center;
     text-align: center;
     color: #ffffff;
     font-weight: 50px;
-    background-image: url(https://i.pinimg.com/originals/33/80/c6/3380c67117f868fb41ef2b1170fd5dc7.gif);
-    object-position: center;
 }
