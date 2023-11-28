@@ -32,6 +32,9 @@
        color: green;
       font-weight: 900;
        }
+       a{
+        margin: auto;
+       }
        .decoders-prof{
         display: inline-block;
         border-radius: 50%;
@@ -40,7 +43,9 @@
         height: 30px;
     }  
     .decoders-link {
-        border-radius: 40%;
-        width: 30px;
+        display: inline-block;
+        border-radius: 50%;
         margin-left: auto;
+        width: 30px; 
+        height: 30px;
     }  
