@@ -29,3 +29,11 @@
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
 }
+
+.jamco-button {
+    text-align: center;
+    color: #ffffff;
+    font-weight: 50px;
+    background-image: url(https://i.pinimg.com/originals/33/80/c6/3380c67117f868fb41ef2b1170fd5dc7.gif);
+    object-position: center;
+}
