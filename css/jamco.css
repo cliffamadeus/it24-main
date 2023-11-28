@@ -35,6 +35,12 @@
     border-bottom-right-radius: 30px;
 }
 
+.jamco-icon {
+    width:20px;
+    margin-top: 1px;
+    border-radius: 50%;
+}
+
 .jamco-button {
     text-align: center;
     color: #ffffff;
