@@ -49,3 +49,8 @@
         width: 30px; 
         height: 30px;
     }  
+    .decoders-buttonBg{
+        background-image: url('https://i.pinimg.com/originals/42/d8/3a/42d83affaa31da79e990c2f3b94b003f.gif');
+        color: black;
+        font-weight: 900;
+     }   
