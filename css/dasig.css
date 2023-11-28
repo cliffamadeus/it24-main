@@ -1,3 +1,32 @@
 .dasigHead{
     text-align: center;
 }
+.DasigC{
+    background-image: url(https://64.media.tumblr.com/44a8970dc861e6b12803d44b99875417/tumblr_od8s1wQ7pA1qeyvpto1_500.gifv);  
+    background-size: auto; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.Elaiz{
+    color: white;
+    font-family: monospace;
+     background-image: linear-gradient(to right, #005249, #A8D8D2);
+      border-bottom-left-radius: 11px; border-top-left-radius: 11px;
+}
+.sweetZ{
+    color: white;
+    font-family: monospace;
+     background-image: linear-gradient(to right, #005249, #6c9e9889);
+      border-bottom-left-radius: 11px; border-top-left-radius: 11px;
+}
+.Ljz{
+    color: white;
+     font-family: monospace;
+      background-image: linear-gradient(to right, #005249, #A8D8D2);
+       border-bottom-left-radius: 11px; border-top-left-radius: 11px;
+}
+.Hersheys{
+    color: white;
+    font-family: monospace;
+     background-image: linear-gradient(to right, #005249, #6c9e9889);
+      border-bottom-left-radius: 11px; border-top-left-radius: 11px;}
