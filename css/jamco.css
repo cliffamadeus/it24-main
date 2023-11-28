@@ -10,7 +10,7 @@
 }
 
 .jamco-header {
-    background-image: url(https://i.pinimg.com/originals/c5/9d/ee/c59dee0e63dd759fc541992e300d089f.gif);
+    background-image: url(https://i.pinimg.com/originals/96/61/92/966192d063580cb1d7d90d5b4527f347.gif);
     object-position: center;
     border-width: 2px;
     border-style: solid;
@@ -41,8 +41,6 @@
 }
 
 .jamco-button {
-    background-image: url(https://i.pinimg.com/originals/c5/9d/ee/c59dee0e63dd759fc541992e300d089f.gif);
-    object-position: center;
     text-align: center;
     color: #ffffff;
     font-weight: 50px;
