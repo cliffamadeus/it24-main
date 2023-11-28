@@ -1,8 +1,14 @@
-.jamco-border {
-    background-color: #00FFFF;
-    border-radius: 10px;
-    border: 1px solid #000;
-    padding: 10px;
+.jamco-background{
+    background-image: url(https://i.pinimg.com/originals/25/d6/9e/25d69edeb4aa67ae93bad88d24e223ed.gif); 
+    object-position: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000c6;
+    box-shadow: -5px 0 5px 5px #fdfdfd, 5px 0 5px 5px #f9fafa, -5px 5px 5px #f4f4f5; 
+    font-family: Arial; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position-y: -5px;
 }
 
 .jamco-h3 {
