@@ -9,6 +9,12 @@
     background-position-y: -5px;
 }
 
+.jamco-emblem{
+    width: 90px; 
+    display: block; 
+    margin-left: 173px;
+}
+
 .jamco-h3 {
     text-align: center;
     color: #ffffff;
