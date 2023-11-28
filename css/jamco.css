@@ -1,13 +1,13 @@
-.jamco-background{
-    background-image: url(https://i.pinimg.com/originals/7d/90/0f/7d900f757b5f36af5795278e39f2cca1.gif); 
+.jamco-background {
+    background-image: url(https://i.pinimg.com/originals/7d/90/0f/7d900f757b5f36af5795278e39f2cca1.gif);
     object-position: center;
     border-width: 2px;
     border-style: solid;
     border-color: #000000c6;
-    box-shadow: -5px 0 5px 5px #fdfdfd, 5px 0 5px 5px #f9fafa, -5px 5px 5px #f4f4f5; 
-    font-family: Arial; 
+    box-shadow: -5px 0 5px 5px #fdfdfd, 5px 0 5px 5px #f9fafa, -5px 5px 5px #f4f4f5;
+    font-family: Arial;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
     background-position-y: -5px;
 }
 
@@ -15,4 +15,17 @@
     text-align: center;
     color: #000000;
     font-weight: bold;
+}
+
+.jamco-text {
+    color: #ffffff;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 20px;
+    background-color: none;
+    border: 1px solid #ffffff;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
