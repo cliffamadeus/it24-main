@@ -1,57 +1,98 @@
-.codegeek-members{
-    margin-left: 5%; 
-    color: rgb(255, 255, 255); 
-    font-family: monospace; 
+.codegeek-members {
+    margin-left: 5%;
+
+
     font-size: 18px;
+
+
+    text-transform: uppercase;
+    font-family: Arial;
+    color: black;
+    font-weight: 600;
+    background-image: url(https://media.giphy.com/media/3o85xJY1FaLzqeoBGw/giphy.gif);
+    background-position-y: -100px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+
 }
-.codegeek-header{
-    background-image: url(https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif); 
-    object-position: center; 
-    border-width: 2.5px; 
-    border-style: solid; 
-    border-color: rgb(16, 81, 221); 
-    box-shadow: -5px 0 5px 5px rgba(0, 225, 255, 0.25), 5px 0 5px 5px rgba(0, 225, 255, 0.25), 0 -5px 5px 5px rgba(0, 225, 255, 0.25); 
-    font-family: Roboto; 
-    background-repeat: no-repeat; 
-    background-size: cover; 
+
+.codegeek-header {
+    background-image: url(https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif);
+    object-position: center;
+    border-width: 2.5px;
+    border-style: solid;
+    border-color: rgb(16, 81, 221);
+    box-shadow: -5px 0 5px 5px rgba(0, 225, 255, 0.25), 5px 0 5px 5px rgba(0, 225, 255, 0.25), 0 -5px 5px 5px rgba(0, 225, 255, 0.25);
+    font-family: Roboto;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-position-y: -40px;
+
 }
-.codegeek{
-    text-align: center; 
-    color: rgb(255, 255, 255); 
-    font-weight: 1000; 
-    -webkit-text-stroke: 2px black; 
-    font-style: italic; 
+
+.codegeek {
+
+
+    text-transform: uppercase;
+    font-family: Arial;
+    background-image: url(https://media.giphy.com/media/3o85xJY1FaLzqeoBGw/giphy.gif);
+    background-position-y: -100px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+    font-weight: 1000;
+    font-style: italic;
     font-size: 40px;
+
 }
-.codegeek-cover{
-    background-image: url(https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif); 
-    border-width: 2.5px; 
-    border-style: solid; 
-    border-color: rgb(38, 97, 226); 
-    box-shadow: -5px 0 5px 5.5px rgba(0, 225, 255, 0.25), 5px 0 5px 5.5px rgba(0, 225, 255, 0.25); 
-    background-size: auto; 
-    background-repeat: no-repeat; 
+
+.codegeek-cover {
+    background-image: url(https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif);
+    border-width: 2.5px;
+    border-style: solid;
+    border-color: rgb(38, 97, 226);
+    box-shadow: -5px 0 5px 5.5px rgba(0, 225, 255, 0.25), 5px 0 5px 5.5px rgba(0, 225, 255, 0.25);
+    background-size: auto;
+    background-repeat: no-repeat;
     background-size: cover;
 }
-.codegeek-emblem{
-    width: 70px; 
-    display: block; 
-    margin-left: 42.5%; 
+
+.codegeek-emblem {
+    width: 70px;
+    display: block;
+    margin-left: 42.5%;
     margin-top: 5px;
+
+
 }
-.codegeek-profile{
-    border-radius: 100%; 
+
+.codegeek-profile {
+    border-radius: 100%;
     box-shadow: 0 0 10px aqua;
-    width:25px; 
-    height:25px;
+    width: 25px;
+    height: 25px;
 }
-.codegeek-git{
-width:25px;
-     height:25px;
-    border-radius: 100%; 
+
+.codegeek-git {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
     box-shadow: 0 0 10px aqua;
 }
-.GEEK{
-    color:rgb(221, 216, 216);
+
+.GEEK {
+
+    font-size: 25px;
+
+    font-family: Arial;
+    color: black;
+    font-weight: 800;
+    background-image: url(https://media.giphy.com/media/3o85xJY1FaLzqeoBGw/giphy.gif);
+    background-position-y: -100px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
