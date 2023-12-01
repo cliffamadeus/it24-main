@@ -1,0 +1,22 @@
+.squad1{
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1500215551369261246/72118B95073FE0AE0C60BB6CA291694CD8CC3971/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); 
+    border-width: 2.5px; 
+    border-style: solid;
+     border-color: #990000;
+     box-shadow: -5px 0 5px 5.5px #DB6885, 5px 0 5px 5.5px #DB6885; 
+     background-size: auto;
+      background-repeat: no-repeat; 
+      background-size: cover;
+}
+.squadheader{
+    background-image: url(https://genk.mediacdn.vn/2018/9/19/e039060a16976f65f1b3d32648f14b5f-15373419397071994366393.gif); 
+    object-position: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0e7f98c6;
+    box-shadow: -5px 0 5px 5px #6ccffd, 5px 0 5px 5px #6ccffd, -5px 5px 5px #6ccffd; 
+    font-family: Roboto;
+     background-repeat: no-repeat;
+     background-size: cover; 
+     background-position-y: -5px;
+}
