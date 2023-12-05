@@ -1,0 +1,74 @@
+.war-bg1{
+    background-image: url('https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif');
+    box-shadow: 0px 0px 8px 4px rgb(93, 121, 121);
+    height: 50px;
+}
+
+.war-title{
+    text-align: center;
+    font-family: 'PARANE','MOKOTO', sans-serif, serif;
+    color: rgb(233, 224, 224);
+    font-weight: bold;
+}
+
+.war-head{
+    position: absolute;
+    left: 610px;
+    top: 50px;
+    text-align: center;
+    font-family: 'PARANE','MOKOTO', sans-serif, serif;
+    color: rgb(233, 224, 224);
+    font-weight: bold;
+}
+
+h3{
+    position: absolute;
+    left: 645px;
+    text-align: center;
+    font-family: 'MOKOTO', sans-serif, serif;
+    color: rgb(233, 224, 224);
+    font-weight: bold;
+    font-size: larger;
+}
+
+.war-bg{
+    background-image: url(https://media.tenor.com/WpgSYAYBpLkAAAAC/hacker.gif);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0px 0px 8px 4px rgb(15, 17, 16);
+}
+
+.war-margin{
+    width: 80%;
+}
+
+.war-parane{
+    width:30px; 
+    height:30px;
+}
+
+.war-balagan{
+    width:30px;
+    height:30px;
+}
+
+.war-macapundag{
+    width:30px;
+    height:30px;
+}
+
+.war-git-icon{
+    width:20px;
+    height:20px;
+}
+
+.war-team{
+    background-color: black;
+    color: rgb(255, 251, 0);
+    text-align: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-block: 30px;
+    font-size: x-large;
+    margin-left: 580px;
+}
