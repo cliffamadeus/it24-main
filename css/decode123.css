@@ -1,0 +1,14 @@
+.logo{
+    color: #5500ff;
+    font-family: Impact;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.decoders{
+    color: #1affff;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bolder;
+}
