@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Group 1",
+      "description": "This is a sample description for the item.",
+      "avatar": "",
+      "date-created": "2024-01-23T18:30:00Z",
+      "date-modified": "2024-01-23T18:45:00Z"
+    },
+    {
+      "id": 1,
+      "name": "Group 1",
+      "description": "This is a sample description for the item.",
+      "avatar": "",
+      "date-created": "2024-01-23T18:30:00Z",
+      "date-modified": "2024-01-23T18:45:00Z"
+    }
+  ]
+  
