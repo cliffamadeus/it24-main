@@ -11,3 +11,66 @@
     </div>
   </div>
 </div>
+
+<h1>JSON Search</h1>
+
+<label for="searchInput">Search:</label>
+<input type="text" id="searchInput" placeholder="Enter search term">
+<button onclick="search()">Search</button>
+
+<div id="results"></div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    fetchAndDisplayData();
+  });
+
+  function fetchAndDisplayData() {
+    fetch('search.json')
+      .then(response => response.json())
+      .then(data => {
+        displayResults(data);
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  }
+
+  function search() {
+    const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+
+    fetch('search.json')
+      .then(response => response.json())
+      .then(data => {
+        const results = data.filter(item => 
+          item.name.toLowerCase().includes(searchTerm) ||
+          item.description.toLowerCase().includes(searchTerm)
+        );
+
+        displayResults(results);
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  }
+
+  function displayResults(results) {
+    const resultsContainer = document.getElementById('results');
+    resultsContainer.innerHTML = '';
+
+    if (results.length === 0) {
+      resultsContainer.innerHTML = '<p>No results found.</p>';
+      return;
+    }
+
+    results.forEach(result => {
+      const resultElement = document.createElement('div');
+      resultElement.innerHTML = `
+        <p>ID: ${result.id}</p>
+        <p>Name: ${result.name}</p>
+        <p>Description: ${result.description}</p>
+        <p>Avatar: ${result.avatar}</p>
+        <p>Date Created: ${result['date-created']}</p>
+        <p>Date Modified: ${result['date-modified']}</p>
+        <hr>
+      `;
+      resultsContainer.appendChild(resultElement);
+    });
+  }
+</script>
