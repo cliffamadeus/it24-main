@@ -10,6 +10,8 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <!---Add your team's stylesheets here--->
+    <link rel="stylesheet" href="./css/app.css">
+
       <!---IT24A-->
       <link rel="stylesheet" href="./css/4element.css">
       <link rel="stylesheet" href="./css/inplay.css">
@@ -50,6 +52,17 @@
   <!---Navbar-->
     <nav>
       <div class="w3-bar w3-teal">
+        <button class="w3-button w3-teal w3-left" onclick="openRightMenu()">&#9776;</button>
+        <div class="w3-sidebar w3-bar-block w3-card w3-animate-right w3-light-grey" style="display:none;left:0;" id="rightMenu">
+          <button onclick="closeRightMenu()" class="w3-bar-item w3-button w3-large">Close &times;</button>
+         
+          <a href="#" class="w3-bar-item w3-button">Link 1</a>
+          <a href="#" class="w3-bar-item w3-button">Link 2</a>
+          <a href="#" class="w3-bar-item w3-button">Link 3</a>
+        </div>
+        
+   
+
           <a href="#home" class="w3-bar-item w3-button">Home</a>
           <div class="w3-dropdown-hover">
             <button class="w3-button">2023</button>
@@ -59,28 +72,16 @@
               <a href="#it24c" class="w3-bar-item w3-button">IT24C</a>
             </div>
           </div>
+
+          <input type="text" class="w3-bar-item w3-input" id="searchInput" placeholder="Search..">
+          <div id="results"></div>
+          <div id="floatingResults"></div>
              
-          <button class="w3-button w3-teal w3-right" onclick="openRightMenu()">&#9776;</button>
-          <div class="w3-sidebar w3-bar-block w3-card w3-animate-right w3-light-grey" style="display:none;right:0;" id="rightMenu">
-            <button onclick="closeRightMenu()" class="w3-bar-item w3-button w3-large">Close &times;</button>
-            <a href="#" class="w3-bar-item w3-button">Link 1</a>
-            <a href="#" class="w3-bar-item w3-button">Link 2</a>
-            <a href="#" class="w3-bar-item w3-button">Link 3</a>
-          </div>
-          <a href="#" class="w3-bar-item w3-button w3-green w3-right">Go</a>
-        <input type="text" class="w3-bar-item w3-input w3-right "  id="searchInput" placeholder="Search..">
-        <div id="results"></div>
-
-
-
-        
+       
+ 
    
       </div>
     </nav>
-    
-
-     
-     
    <!---Navbar-->
    <div id="content"></div>
 </body>
