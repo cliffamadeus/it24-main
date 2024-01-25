@@ -1,0 +1,11 @@
+#floatingResults {
+    position: absolute;
+    top: 50px; /* Adjust the top position as needed */
+    left: 30%; /* Display the floating element at 30% of the canvas width */
+    width: 40%; /* Set the width of the search card */
+    transform: translateX(-50%);
+    background: #fff; /* Set background color */
+    border: 1px solid #ccc; /* Set border */
+    padding: 10px; /* Set padding */
+    display: none; /* Initially hide the floating element */
+}
