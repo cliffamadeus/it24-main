@@ -1,6 +1,6 @@
 # IT 24 - Event Driven Programming 
 👨‍💻 Static Page Repository 👨‍💻
-## Academic Year 2023 - 2024
+## Academic Year 2023 - Present
 
 Welcome to the official static page repository for IT 24 - Event Driven Programming for the Academic Year 2023 - 2024. 
 This repository is a collaborative space where students can work together to build and maintain the static pages for the course.
